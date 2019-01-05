@@ -9,7 +9,7 @@ Webページのキャプチャー画像でブックマークを管理するChrom
 ブックマークに追加したいWebページを表示し右クリック→「Capookmark」を選択
 （画面に表示されている範囲がキャプチャーされます）
 
-![選択](sampleimage/get_capture.png)
+![選択](sampleimage/add_Capookmark.png)
 
 
 
